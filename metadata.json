@@ -1,0 +1,20 @@
+{
+  "name": "RAJPUT",
+  "symbol": "RAJPUT",
+  "description": "RAJPUT is a utility token built on the Solana blockchain, designed to facilitate seamless transactions, governance, and rewards within its ecosystem. Inspired by the valor and legacy of the Rajput warriors.",
+  "image": "https://cdn.jsdelivr.net/gh/rohit-chouhan/RAJPUT@main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/rohit-chouhan/RAJPUT@main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
